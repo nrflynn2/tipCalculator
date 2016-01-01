@@ -31,7 +31,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 No major challenges in building the app, the video was straight-forward. 
-Only minor adjustments needed related to syntax, e.g. 'println' yields compilation errors and had to be replaced with 'print'
+Only minor adjustments needed related to syntax, e.g. 'println' yields compilation errors and had to be replaced with 'print'.
+Initial issues with running the iOS simulator successfully that were easily fixed by restarting XCode.
+
 
 ## License
 
